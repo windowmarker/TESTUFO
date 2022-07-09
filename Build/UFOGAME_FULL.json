@@ -1,0 +1,17 @@
+{
+"companyName": "MISPRINT CO",
+"productName": "UFOGAME",
+"productVersion": "0.3",
+"dataUrl": "UFOGAME_FULL.data.unityweb",
+"wasmCodeUrl": "UFOGAME_FULL.wasm.code.unityweb",
+"wasmFrameworkUrl": "UFOGAME_FULL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "UFOGAME_FULL.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.11f1"
+}
